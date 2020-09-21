@@ -59,7 +59,7 @@ dependencies:
   - libprotobuf=3.5.2=he0781b1_0
   - libsodium=1.0.16=h9d3ae62_0
   - libtiff=4.0.9=hb8ad9f9_1
-  - make=3.82=0
+  - make
   - markdown=2.6.11=py35_0
   - markupsafe=1.0=py35hc253e08_1
   - mccabe=0.6.1=py35_1
@@ -131,8 +131,8 @@ dependencies:
   - typed-ast=1.1.0=py35hfa6e2cd_0
   - typing=3.6.4=py35_0
   - urllib3=1.23=py35_0
-  - vc=14.1=h0510ff6_3
-  - vs2015_runtime=15.5.2=3
+  - vc
+  - vs2015_runtime
   - wcwidth=0.1.7=py35h6e80d8a_0
   - webencodings=0.5.1=py35h5d527fb_1
   - werkzeug=0.14.1=py35_0
